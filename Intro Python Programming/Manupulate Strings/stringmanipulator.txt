@@ -1,0 +1,10 @@
+# Purpose:
+    #Manupulate strings and use if statments to get desired output.
+# Preconditions:
+    # String from the user
+# Postconditions:
+    # Prompt lines.
+    # Every other letter on the same line.
+    # Short if the string is 5 characters.
+    # First 2 characters of the string followed by the last 2.
+    # With if statement creat new string with "ing" or "ly" on the old string

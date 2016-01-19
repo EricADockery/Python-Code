@@ -1,0 +1,6 @@
+#Preconditions: (input)
+    #User will input three variables.
+#Postcondtions
+    #Code will print the product of the numbers
+    #Code will output the product in its individual digits
+    #Code will output the products individual digits in reverse.

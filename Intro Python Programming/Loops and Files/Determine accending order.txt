@@ -1,0 +1,9 @@
+# Purpose:
+    #Write a loop using a file determining if the file is in accending order
+    # Use the largest number and Test if it is True or False using the statement
+    # If the first number is greater than the second True and if the
+    # Second number is greater than the first then False
+#Preconditions:
+    #none
+# Postconditions:
+    # yes or no

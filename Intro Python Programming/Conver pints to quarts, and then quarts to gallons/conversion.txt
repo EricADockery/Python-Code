@@ -1,0 +1,8 @@
+# Purpose: Program to convert pints to quarts, and quarts to gallons
+# Preconditions (input)
+#       User supplies the number of pints
+# Postconditions (output)
+#       User is given the number of quarts and gallons based on number of pints
+
+#Goal: Calculate the number of quarts and gallons in a given number of pints.
+

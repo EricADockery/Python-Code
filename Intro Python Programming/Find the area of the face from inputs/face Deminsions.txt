@@ -1,0 +1,2 @@
+#precourser to other program.
+#It finds the basic information for drawing a face

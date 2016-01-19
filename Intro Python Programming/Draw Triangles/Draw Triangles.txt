@@ -1,0 +1,18 @@
+#Purpose:
+    #Program to receive three points, draw their endpoints and draw a triangle
+    #connecting them and a inverse image, aslo desplay the perimeter and area
+    #of the triangles, five times. Then add up and display the total area and perimeter
+    #of the triangles and reflected ones.
+#Preconditions: (input)
+    # user will click to input where the points of the triangles.
+#Postconditions: (output)
+    #Display title
+    #A blank line is shown
+    #Ask for the first, second and third point of trianles
+    #Draw each point with click with a yellow circle.
+    #A blank line is shown
+    #Display perimeter of each triangles
+    #Display the area of the first triangle
+    #A blank line is shown.
+    #Repeat steps above 5 times
+    #Show the total of the perimeters and areas of triangles and reflected ones

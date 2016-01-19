@@ -1,0 +1,7 @@
+# Purpose:
+    # using if statements to calculate a bills total
+# Preconditions:
+    # user will input a y or n for each service wanted.
+# Postconditions:
+    #Program will sum the totals of each service and thank the costumer.
+    # Assuming only y or n answers.

@@ -1,0 +1,1 @@
+Draws a triagle based off of three clicks on the GUI

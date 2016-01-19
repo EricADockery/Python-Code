@@ -1,0 +1,5 @@
+# Purpose To take eight points (two lines), find the intersection point, and display
+# this data in a graphics window.
+# Preconditions: The user must enter eight points. (x1, y1), (x2, y2) for both lines.
+# Postconditions: To calculate two slopes, two y-intercepts, show equations for both lines,
+# then show the intersecting point between the two lines.

@@ -1,0 +1,5 @@
+#Purpose:
+	#permuation and combination of a file
+	#from the methodology of CECS 310
+	#diagram
+#This code does not work correctly. 

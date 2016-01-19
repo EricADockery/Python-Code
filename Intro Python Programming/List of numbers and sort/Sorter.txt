@@ -1,0 +1,10 @@
+#Purpose:
+    #Take user inputed list of numbers and list the largest, smallest, average
+    # and sort the list from least to greatest.
+#Preconditions:
+    #User will input 6 numbers to form a list
+#Postconditons:
+    #Prompt user for 6 numbers
+    #Show the numbers in a list
+    #Display the largest, smallest,and average
+    #Display the new list sorted

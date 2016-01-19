@@ -1,0 +1,7 @@
+#write a program that will read in 3 numbers
+#from each line of a file.
+#it will report the total of the first NINE numbers
+#(i.e. the first three lines of data)
+#you can assume the number of lines in the file
+#will be a multiple of three
+#and there will be 3 numbers on each line

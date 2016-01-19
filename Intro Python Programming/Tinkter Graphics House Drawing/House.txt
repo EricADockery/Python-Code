@@ -1,0 +1,9 @@
+#Purpose:
+#   Manipulation of the graphics libary to produce a graphical image of a
+#   building.
+#Preconditions:
+#   No preconditions
+#Postconditions:
+#   Code will produce the graphical image of a building
+#   Shell statement of "click to end program"
+#

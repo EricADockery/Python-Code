@@ -1,0 +1,5 @@
+# read scores from file, 0 through 9
+    # produce a bar chart which has a
+    #     bar for each number 0-9, which is as tall as
+    #     the number of that score seen in the file
+    #  must have a list of 10 counters, one for each score

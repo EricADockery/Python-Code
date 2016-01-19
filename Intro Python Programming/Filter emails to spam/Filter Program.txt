@@ -1,0 +1,23 @@
+#Purpose:
+    # Create a program that will intake a file of emails and filter the spam
+    # emails using a preset coded guide.
+#Preconditions:
+    #User will enter the name of the file that is to be filtered.
+    #User will give their email address
+#Postconditions:
+    # Program will take the email that was sent and either inport them into the
+        #file accepted or the file rejected based on the guidelines:
+        #if the From line shows it is from anywhere in New Zealand,
+            #add 10 to the score. (country code for New Zealand is .nz)
+        #if the To line shows that it is not addressed to the person filtering
+        #if the first character of the From line is a digit, add 30 to the score.
+        #if the Subject line contains the word "large", add 10 to the score.
+        #if the Subject line contains the word "money", add 20 to the score.
+        #if the To line contains more than one address (hint - a comma would
+            #be between the addresses), add 20 to the score.
+    # The total score of the file will be accepted if the file is less than
+        # or equal to 30 pts.
+    # The total of the emails filtered will be displayed.
+    # The total of the emails accepted.
+    # The total of the emails rejected.
+    # The average score of the emails in the file will be displayed.
